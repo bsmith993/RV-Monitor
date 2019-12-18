@@ -13,3 +13,5 @@ Due to the high gain, line voltage loss, and other noise factors, a calibration 
 quality, standalone multimeter to adjust this variable until the ADS readings match actuals.
 
 
+![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/BSRVMv2.01_PCB_photo.png)
+
