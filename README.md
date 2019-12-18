@@ -1,5 +1,4 @@
 # RV-Monitor
-RV Monitor
 
 This is B. Smitty's RV Monitor.
 
