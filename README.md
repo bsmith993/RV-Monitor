@@ -15,18 +15,20 @@ One scenario for monitoring includes a Raspberry Pi running the monitoring syste
 
 An extended scenario also sends data to external Influx/Grafana system to allow remote monitoring. With sufficient solar charging, the system can run indefinitely with the Raspberry Pi running off a 12v - 5v buck converting power supply. 
 
-After initial prototyping on breadboard, a printed PCB was designed to house all circuits. This PCB is designed to sit directly over the Raspberry Pi utilizing a GPIO extender and standoff mounts.
+After initial prototyping on breadboard, a printed PCB was designed to house all circuits. This PCB is designed to sit directly over the Raspberry Pi utilizing a GPIO extender and standoff mounts. I used EasyEDA.com and ordered PCB boards from JLBPCB.com with outstanding results. (Highly Recommended!)
 
 ![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/BSRVMv2.01_PCB_photo.png)
 
 # Hardware Required
-ADS: 2x pre-built ADS1115 boards with 10 pin header
-1 each: 10kΩ, 1kΩ, 220Ω, and 100Ω resistors
-2x .1uF Capacitors
-1 DHT22 Sensor
-1 LED bulb
-4x 2 post screw terminals
-1 GPIO extension header
-1 PCB or breadboard for initial prototyping
-Appropriate cable to extend from PCB terminals to shunt/battery endpoints
-1 Raspberry Pi 
+* ADS: 2x pre-built ADS1115 boards with 10 pin header
+* 1 each: 10kΩ, 1kΩ, 220Ω, and 100Ω resistors
+* 2x .1uF Capacitors
+* 1 DHT22 Sensor
+* 1 LED bulb
+* 4x 2 post screw terminals
+* 1 GPIO extension header
+* 1 PCB or breadboard for initial prototyping
+* Appropriate cable to extend from PCB terminals to shunt/battery endpoints
+* 1 Raspberry Pi 
+
+
