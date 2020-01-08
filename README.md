@@ -34,7 +34,7 @@ After initial prototyping on a breadboard, a printed PCB was designed. This PCB 
 The PCB includes the 2 ADS1115 sensors and the SHT21 sensor. A decoupler capacitor on the inbound side of the 3.3v power source is used to stabilize incoming power, then both power and ground connections go through a ferrite bead filter. Each sensor then gets its own decoupling capacitor as well. The SCL/ADS lines are bridged and each have a pull up resistor. 12v+ line goes through a voltage divider circuit, and a status LED is included for the script to provide a visual status.
 
 # My most recent PCB design.
-![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/BSRVMv2.01_PCB_photo.png)
+![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcbphoto.png)
 
 # Hardware Required
 * PCB as designed
