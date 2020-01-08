@@ -35,6 +35,8 @@ The PCB includes the 2 ADS1115 sensors and the SHT21 sensor. A decoupler capacit
 
 # My most recent PCB design.
 ![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcbphoto.png)
+![Image of schematic](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/schematic1.png)
+![Image of final board](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcb2.png)
 
 # Hardware Required
 * PCB as designed
