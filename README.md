@@ -42,6 +42,8 @@ Final Product:
 ![Image of final board](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcb2.png)
 All hooked up doing its thing:
 ![Image of final setup](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/image1.png)
+Overall system layout:
+![Image of final setup](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/layout.png)
 
 # Hardware Required
 * PCB as designed
@@ -49,6 +51,7 @@ All hooked up doing its thing:
 * 1 GPIO extension header
 * Appropriate cable to extend from PCB terminals to shunt/battery endpoints
 * 1 Raspberry Pi (Model 3 or better suggested)
+* 12v to 5v buck converter with micro usb power connection
 * Raspberry Pi case with standoffs for mounting the PCB
 
 
