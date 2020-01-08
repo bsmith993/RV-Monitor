@@ -40,6 +40,8 @@ PCB Proof:
 ![Image of PCB photo](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcbphoto.png)
 Final Product:
 ![Image of final board](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/pcb2.png)
+All hooked up doing its thing:
+![Image of final setup](https://raw.githubusercontent.com/bsmith993/RV-Monitor/master/image1.png)
 
 # Hardware Required
 * PCB as designed
